@@ -5,7 +5,7 @@ import java.util.*;
 import org.junit.*;
 
 import static org.junit.Assert.*;
-
+// 注意就是1 就是1步， 昨晚處理然後步數+1
 public class CollatzConjecture {
     /*
         Collatz Conjecture
