@@ -81,7 +81,8 @@ Given a list of unique words, find all pairs of distinct indices (i, j) in the g
 [Java Source Code](https://github.com/dqi2018/airbnb/blob/master/src/main/java/palindrome_pairs/PalindromePairs.java)
 
 #### 8 Find Median in Large Integer File of Integers
-
+二分是二分但是沒有想象的簡單。
+這個難點在於找第k個數， 就是需要某一個值，有k個小於等於他，其中他的最大值。
 Find the median from a large file of integers. You can not access the numbers by index, can only access it sequentially. And the numbers cannot fit in memory.
 
 [Java Source Code](https://github.com/dqi2018/airbnb/blob/master/src/main/java/find_median_in_large_file_of_integers/FindMedianinLargeIntegerFileofIntegers.java)
