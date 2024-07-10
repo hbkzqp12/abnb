@@ -192,7 +192,7 @@ We also want to minimize sum |x_i-y_i|
 
 [Java Source Code](https://github.com/dqi2018/airbnb/blob/master/src/main/java/round_prices/RoundPrices.java)
 
-#### 18 Sliding Game
+#### 18 Sliding Game 這個的特點是1. 怎麽存過去的狀態， 複製很多個數組還是用字符串然後計算 2. 是否要記錄走法，還得多一個map
 
 You're given a 3x3 board of a tile puzzle, with 8 tiles numbered 1 to 8, and an empty spot. You can move any tile adjacent to the empty spot, to the empty spot, creating an empty spot where the tile originally was. The goal is to find a series of moves that will solve the board, i.e. get [ [1, 2, 3], [4, 5, 6], [7, 8, - ]…
 
