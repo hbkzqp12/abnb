@@ -345,6 +345,9 @@ Design a method to guess this secret number.
 [Java Source Code](https://github.com/dqi2018/airbnb/blob/master/src/main/java/guess_number/GuessNumber.java)
 
 
+![image](https://github.com/user-attachments/assets/4205b80a-46d1-493f-b5dd-a07d97889e4f)
+
+
 ## Requirements
 * Java >= 1.11.106
 * Gradle >= 5.6.3
