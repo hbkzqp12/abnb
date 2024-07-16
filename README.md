@@ -347,6 +347,8 @@ Design a method to guess this secret number.
 
 ![image](https://github.com/user-attachments/assets/4205b80a-46d1-493f-b5dd-a07d97889e4f)
 
+![image](https://github.com/user-attachments/assets/9972f44b-d85c-455a-8ada-77640c42c5ac)
+
 
 ## Requirements
 * Java >= 1.11.106
